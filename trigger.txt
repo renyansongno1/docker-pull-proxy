@@ -1,1 +1,1 @@
-alpine:20240606 registry.cn-hangzhou.aliyuncs.com/yaming116/alpine:20240606
+testcontainers/ryuk:0.7.0 registry.cn-chengdu.aliyuncs.com/exixo/iot/ryuk:0.7.0
