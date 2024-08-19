@@ -1,1 +1,1 @@
-testcontainers/ryuk:0.7.0 registry.cn-chengdu.aliyuncs.com/nativemq/ryuk:0.7.0
+docker.io/docker/dockerfile:1.7 registry.cn-chengdu.aliyuncs.com/nativemq/dockerfile:1.7
