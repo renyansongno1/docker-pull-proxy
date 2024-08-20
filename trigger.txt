@@ -1,1 +1,1 @@
-docker.io/docker/dockerfile:1.7 registry.cn-chengdu.aliyuncs.com/nativemq/dockerfile:1.7
+docker.io/golang:1.21 registry.cn-chengdu.aliyuncs.com/nativemq/golang:1.21
