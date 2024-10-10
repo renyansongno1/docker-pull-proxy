@@ -1,1 +1,1 @@
-minio/minio:latest registry.cn-chengdu.aliyuncs.com/nativemq/minio/minio:latest
+minio/minio:RELEASE.2024-10-02T17-50-41Z-cpuv1 registry.cn-chengdu.aliyuncs.com/nativemq/minio/minio:RELEASE.2024-10-02T17-50-41Z-cpuv1
