@@ -1,1 +1,1 @@
-minio/minio:RELEASE.2024-10-02T17-50-41Z-cpuv1 registry.cn-chengdu.aliyuncs.com/nativemq/minio:RELEASE.2024-10-02T17-50-41Z-cpuv1
+minio/mc:RELEASE.2024-10-02T08-27-28Z-cpuv1 registry.cn-chengdu.aliyuncs.com/nativemq/mc:RELEASE.2024-10-02T08-27-28Z-cpuv1
