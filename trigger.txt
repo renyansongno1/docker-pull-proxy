@@ -1,1 +1,1 @@
-minio/mc:RELEASE.2024-10-02T08-27-28Z-cpuv1 registry.cn-chengdu.aliyuncs.com/nativemq/mc:RELEASE.2024-10-02T08-27-28Z-cpuv1
+starrocks/fe-ubuntu:3.3-latest registry.cn-chengdu.aliyuncs.com/nativemq/fe-ubuntu:3.3-latest
