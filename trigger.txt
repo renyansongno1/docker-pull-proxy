@@ -1,1 +1,1 @@
-rancher/local-path-provisioner:v0.0.24 registry.cn-chengdu.aliyuncs.com/nativemq/local-path-provisioner:v0.0.24
+busybox:latest registry.cn-chengdu.aliyuncs.com/nativemq/busybox:latest
