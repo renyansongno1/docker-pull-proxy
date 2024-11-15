@@ -1,1 +1,1 @@
-pgvector/pgvector:pg16 registry.cn-chengdu.aliyuncs.com/nativemq/pgvector:pg16
+tensorchord/pgvecto-rs:pg16-v0.3.0 registry.cn-chengdu.aliyuncs.com/nativemq/pgvecto-rs:pg16-v0.3.0
