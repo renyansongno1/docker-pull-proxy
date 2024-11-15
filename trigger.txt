@@ -1,1 +1,1 @@
-redis:6-alpine registry.cn-chengdu.aliyuncs.com/nativemq/redis:6-alpine
+langgenius/dify-sandbox:0.2.10 registry.cn-chengdu.aliyuncs.com/nativemq/dify-sandbox:0.2.10
