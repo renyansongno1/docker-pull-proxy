@@ -1,1 +1,1 @@
-certbot/certbot:latest registry.cn-chengdu.aliyuncs.com/nativemq/certbot:latest
+nginx:latest registry.cn-chengdu.aliyuncs.com/nativemq/nginx:latest
