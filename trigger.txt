@@ -1,1 +1,1 @@
-langgenius/dify-web:0.11.1 registry.cn-chengdu.aliyuncs.com/nativemq/dify-web:0.11.1
+postgres:15-alpine registry.cn-chengdu.aliyuncs.com/nativemq/postgres:15-alpine
