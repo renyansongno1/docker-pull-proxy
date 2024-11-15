@@ -1,1 +1,1 @@
-langgenius/dify-api:0.11.1 registry.cn-chengdu.aliyuncs.com/nativemq/dify-api:0.11.1
+langgenius/dify-web:0.11.1 registry.cn-chengdu.aliyuncs.com/nativemq/dify-web:0.11.1
