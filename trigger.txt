@@ -1,1 +1,1 @@
-busybox:latest registry.cn-chengdu.aliyuncs.com/nativemq/busybox:latest
+langgenius/dify-api:0.11.1 registry.cn-chengdu.aliyuncs.com/nativemq/dify-api:0.11.1
