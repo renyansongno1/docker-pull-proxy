@@ -1,1 +1,1 @@
-nginx:latest registry.cn-chengdu.aliyuncs.com/nativemq/nginx:latest
+semitechnologies/weaviate:1.19.0 registry.cn-chengdu.aliyuncs.com/nativemq/weaviate:1.19.0
