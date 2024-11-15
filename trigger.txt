@@ -1,1 +1,1 @@
-postgres:15-alpine registry.cn-chengdu.aliyuncs.com/nativemq/postgres:15-alpine
+redis:6-alpine registry.cn-chengdu.aliyuncs.com/nativemq/redis:6-alpine
