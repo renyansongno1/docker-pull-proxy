@@ -1,1 +1,1 @@
-ubuntu/squid:latest registry.cn-chengdu.aliyuncs.com/nativemq/squid:latest
+certbot/certbot:latest registry.cn-chengdu.aliyuncs.com/nativemq/certbot:latest
