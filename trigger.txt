@@ -1,1 +1,1 @@
-opensearchproject/opensearch-dashboards:latest registry.cn-chengdu.aliyuncs.com/nativemq/opensearch-dashboards:latest
+docker.io/library/openjdk:8 registry.cn-chengdu.aliyuncs.com/nativemq/openjdk:8
